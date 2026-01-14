@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "月へ行こう",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2026-01-14T08:41:47.106371Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月へ行こう",
+      "artist": "Macaroni Empitsu",
+      "has_synced": false,
+      "path": "select/01_月へ行こう_Macaroni_Empitsu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月へ行こう",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/02_月へ行こう_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "月へ行こう",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/03_月へ行こう_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "月へ行こう - Tsukiheikou",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/04_月へ行こう_-_Tsukiheikou_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月へ行こう",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_月へ行こう_マカロニえんぴつ.txt"
+    }
+  ]
+}
